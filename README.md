@@ -11,3 +11,17 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bank-san&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🧭 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bank-san&color=blue" />
+</p>
